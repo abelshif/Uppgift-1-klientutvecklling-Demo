@@ -1,6 +1,7 @@
 body {
   background-color: antiquewhite;
 }
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -24,6 +25,7 @@ li a {
 button {
   font-size: medium;
 }
+
 button:hover {
   background-color: aqua;
 }
